@@ -10,7 +10,7 @@ permalink: "about"
 
 **Little foxes** is a blog created with the aim to spread the love and appreciation towards fox (_Vulpes vulpes_) with extra programming stuff added.  
 
-This site is hosted on <a href="https://www.digitalocean.com/?refcode=f7f1b47b1fff">Digital Ocean</a> and staticly generated using  <a href="http://jekyllrb.com/">Jekyll </a>.
+This site is previously hosted on <a href="https://www.digitalocean.com/?refcode=f7f1b47b1fff">Digital Ocean</a> and staticly generated using  <a href="http://jekyllrb.com/">Jekyll </a>.
 
 ## About the author
 
