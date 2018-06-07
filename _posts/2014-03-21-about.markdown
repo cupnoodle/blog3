@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "About"
+date:   2014-03-21 00:05:10
+categories: 
+permalink: "about"
+---
+
+## About this site
+
+**Little foxes** is a blog created with the aim to spread the love and appreciation towards fox (_Vulpes vulpes_) with extra programming stuff added.  
+
+This site is hosted on <a href="https://www.digitalocean.com/?refcode=f7f1b47b1fff">Digital Ocean</a> and staticly generated using  <a href="http://jekyllrb.com/">Jekyll </a>.
+
+## About the author
+
+#### soulchild
+
+Malaysian , fox enthusiast, web technology enthusiast, computer science undergraduate student and likes to draw occasionally. Currently being held in a [Sweatshop](http://sweatshop.in).
+
+Twitter : <a href="https://twitter.com/soulchildpls">@soulchildpls</a>  
+Github  : <a href="https://github.com">@cupnoodle</a>  
+
+
+Feel free to drop an email to axel [at] fluffy.es, I would be happy to answer your enquiries. I will send you some handmade cookies if you include some fox pictures in the email.
+
+
+## FAQ
+
+1. **How do you buy this .es domain?**  
+Through namecheap, you can see the [requirement and steps here](https://www.namecheap.com/support/knowledgebase/article.aspx/9246/36/are-there-any-specific-requirements-for-registering-a-es-domain).
